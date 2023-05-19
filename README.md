@@ -1,4 +1,4 @@
-# Node_CRUD
+# Node_CRUD_Project
 
 Problem Statement-  Develop Books Directory using NodeJs, Javascript, ExpressJs, MongoDb/mongoose or MySql/sequelize.
 
