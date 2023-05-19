@@ -2,8 +2,7 @@
 
 Problem Statement-  Develop Books Directory using NodeJs, Javascript, ExpressJs, MongoDb/mongoose or MySql/sequelize.
 
-Use Module Import and Export
-Use nodemon
+Use Module Import and Export along with nodemon.
  
 Write CRUD API's for below:
 
